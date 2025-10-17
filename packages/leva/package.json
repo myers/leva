@@ -22,7 +22,8 @@
   "preconstruct": {
     "entrypoints": [
       "index.ts",
-      "plugin/index.ts"
+      "plugin/index.ts",
+      "headless/index.ts"
     ]
   },
   "peerDependencies": {
