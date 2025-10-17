@@ -7,7 +7,8 @@
   "files": [
     "dist",
     "src",
-    "plugin"
+    "plugin",
+    "headless"
   ],
   "scripts": {
     "prepare": "node ../../scripts/prepare-package.js"
